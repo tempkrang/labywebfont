@@ -1,10 +1,10 @@
 /* Webfont: LabyHJ1-R */@font-face {
     font-family: 'LabyHJ1';
-    src: url('LabyHJ1-R.eot'); /* IE9 Compat Modes */
-    src: url('LabyHJ1-R.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('LabyHJ1-R.woff') format('woff'), /* Modern Browsers */
-         url('LabyHJ1-R.woff2') format('woff2'), /* Modern Browsers */
-         url('LabyHJ1-R.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('//github.com/tempkrang/labywebfont/raw/master/LabyHJ1-R.eot'); /* IE9 Compat Modes */
+    src: url('//github.com/tempkrang/labywebfont/raw/master/LabyHJ1-R.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('//github.com/tempkrang/labywebfont/raw/master/LabyHJ1-R.woff') format('woff'), /* Modern Browsers */
+         url('//github.com/tempkrang/labywebfont/raw/master/LabyHJ1-R.woff2') format('woff2'), /* Modern Browsers */
+         url('//github.com/tempkrang/labywebfont/raw/master/LabyHJ1-R.ttf') format('truetype'); /* Safari, Android, iOS */
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;

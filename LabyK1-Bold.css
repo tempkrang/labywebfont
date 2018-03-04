@@ -1,10 +1,10 @@
 /* Webfont: LabyK1-B */@font-face {
     font-family: 'LabyK1';
-    src: url('LabyK1-B.eot'); /* IE9 Compat Modes */
-    src: url('LabyK1-B.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('LabyK1-B.woff') format('woff'), /* Modern Browsers */
-         url('LabyK1-B.woff2') format('woff2'), /* Modern Browsers */
-         url('LabyK1-B.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('//github.com/tempkrang/labywebfont/raw/master/LabyK1-B.eot'); /* IE9 Compat Modes */
+    src: url('//github.com/tempkrang/labywebfont/raw/master/LabyK1-B.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('//github.com/tempkrang/labywebfont/raw/master/LabyK1-B.woff') format('woff'), /* Modern Browsers */
+         url('//github.com/tempkrang/labywebfont/raw/master/LabyK1-B.woff2') format('woff2'), /* Modern Browsers */
+         url('//github.com/tempkrang/labywebfont/raw/master/LabyK1-B.ttf') format('truetype'); /* Safari, Android, iOS */
     font-style: normal;
     font-weight: b;
     text-rendering: optimizeLegibility;
